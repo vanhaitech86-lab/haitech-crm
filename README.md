@@ -8,6 +8,14 @@
 
 ---
 
+## 🔗 Đường Dẫn Trực Tuyến (Live Production & GitHub)
+
+- **Vercel Production (Trực tiếp 24/7):** [https://haitech-crm.vercel.app](https://haitech-crm.vercel.app)
+- **GitHub Repository (Kho mã nguồn):** [https://github.com/vanhaitech86-lab/haitech-crm](https://github.com/vanhaitech86-lab/haitech-crm)
+- **Vercel Deployment URL:** [https://haitech-o1b33eb8a-vps-group-team.vercel.app](https://haitech-o1b33eb8a-vps-group-team.vercel.app)
+
+---
+
 ## 🌟 Điểm Nổi Bật Của HAITECH CRM
 
 1. **Bố cục 3 cột chuẩn Omnichannel (Tối ưu màn hình 1440px / 1280px / Tablet):**
